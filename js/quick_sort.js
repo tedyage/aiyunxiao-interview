@@ -1,3 +1,7 @@
+/*
+本题目主要考验对快速排序算法的理解程度
+*/
+console.log("________________________quick_sort.js__________________________")
 function quick_sort(arr,left,right){
     var count = arr.length;
     //定义基准索引

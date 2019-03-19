@@ -1,3 +1,4 @@
+console.log("________________________test.js__________________________")
 //Number类型，值类型
 var a = 3;
 function Modify(n){

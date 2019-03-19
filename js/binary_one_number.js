@@ -1,4 +1,8 @@
+/* 
+本题目主要考验将十进制数转换为二进制数的方法
+*/
 //题目，统计一个十进制整数的对应二进制数的1的总个数
+console.log("________________________binary_one_number.js__________________________")
 function getNumber(num){
     var count = 0;
     var num_str = getBinaryNum(num).toString();   //获取十进制数对应的二进制数字符串

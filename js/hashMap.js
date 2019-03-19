@@ -1,4 +1,8 @@
+/*
+用javascript编写一个哈希表
+*/
 //javascript的object的属性其实与哈希表非常类似
+console.log("_______________________hashMap.js__________________________")
 function HashMap(){
     var size = 0;                 //初始化HashMap内部变量size为HashMap记录条数
     var entry = new Object();     //初始化entry，用于接受键值对
